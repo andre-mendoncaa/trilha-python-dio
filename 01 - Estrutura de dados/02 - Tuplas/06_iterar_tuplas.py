@@ -4,6 +4,7 @@ carros = (
     "palio",
 )
 
+
 for carro in carros:
     print(carro)
 
